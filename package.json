@@ -1,0 +1,19 @@
+{
+  "name": "express101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "vite": "^2.6.13",
+    "vite-plugin-node": "^0.0.14"
+  }
+}
